@@ -27,13 +27,11 @@
         "url": "https://twitter.com/shenbagaraju23",
         "className": "fa fa-twitter"
       },
-     
       {
         "name": "instagram",
         "url": "https://www.instagram.com/shenbagaraju23/?hl=en",
         "className": "fa fa-instagram"
       },
-      
       {
         "name": "skype",
         "url": "https://join.skype.com/invite/bgNhg5Vsxmig",
@@ -70,11 +68,8 @@
         "years": "Dec 2016 - Present",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
-     
-      
     ],
     "skills": [
-      
       {
         "name": "Adobe Photoshop",
         "level": "70%"
@@ -83,7 +78,6 @@
         "name": "Adobe Illustrator",
         "level": "50%"
       }
-      
     ]
   },
   "portfolio": {
@@ -91,48 +85,38 @@
       {
         "title": "AHAH Event Management",
         "category": "Booklets",
-        "image": "event.jpg",
-      
+        "image": "event.jpg"
       },
       {
         "title": "Star Galleria Thetre",
         "category": "Website Design",
-        "image": "website.jpg",
-        
+        "image": "website.jpg"
       },
       {
         "title": "Petta",
         "category": "Rajinikanth",
-        "image": "petta.jpg",
-        
+        "image": "petta.jpg"
       },
       {
         "title": "Beat The Heat Event",
         "category": "Poster",
-        "image": "beat.jpg",
-       
+        "image": "beat.jpg"
       },
       {
         "title": "Logo",
         "category": "China Table Restuarant",
-        "image": "china_2.jpg",
-        
+        "image": "china_2.jpg"
       },
-		{
+      {
         "title": "Logo",
         "category": "Cheddar Pizza",
-        "image": "cheddar.jpg",
-        
+        "image": "cheddar.jpg"
       },
-		{
+      {
         "title": "Logo",
         "category": "Masala Box Restuarant",
-        "image": "masala-box1.jpg",
-        
+        "image": "masala-box1.jpg"
       }
-		
-		
-		
     ]
   },
   "testimonials": {
