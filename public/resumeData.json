@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Shenbagaraj S",
+    "occupation": "Graphic Designer",
+    "description": "Seeking a challenging job in a reputed organization to utilize my skills and abilities, where I can contribute significantly in the development of the organization and also excel myself. Muthuramalinga Siva ( aka ) SIVA",
+    "image": "profilepic.jpg",
+    "bio": "Shenbagaraj ( aka ) SHEN",
+    "contactmessage": "Hi.",
+    "email": "shenbagaraju23@gmail.com",
+    "phone": "7402059913",
+    "address": {
+      "street": "353/6, Ganeshnagar, Manthithoppu, Kovilpatti",
+      "city": "Tuticorine",
+      "state": "Tamil Nadu",
+      "zip": "628502"
+    },
+    "website": "#",
+    "resumedownload": "https://mrlsiva.s3.ap-south-1.amazonaws.com/resume/Siva_P.doc",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shenbaga.raja.3388",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/shenbagaraju23",
+        "className": "fa fa-twitter"
+      },
+     
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shenbagaraju23/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      
+      {
+        "name": "skype",
+        "url": "https://join.skype.com/invite/bgNhg5Vsxmig",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Bachelor of Commerce with (computer application) ",
+        "degree": "Accounts with Computer Application",
+        "graduated": "2015-Pastout",
+        "description": "B.com(ca) in 2012-2015 from SSDM College, Kovilpatti."
+      },
+      {
+        "school": "HSC",
+        "degree": "A.V Hr Sec School",
+        "graduated": "2012 - Pastout",
+        "description": "HSC With A.V Hr Sec School in 2012, Kovilpatti."
+      },
+      {
+        "school": "SSLC",
+        "degree": "Viswakarma Higher sec school",
+        "graduated": "2010 - Pastout",
+        "description": "10 th with aggregate 52% from Viswakarma Higher sec school in 2010, Kovilpatti."
+      }
+    ],
+    "work": [
+      {
+        "company": "Orbgen Technology Pvt.Ltd",
+        "title": "Graphic Designer",
+        "years": "Dec 2016 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+     
+      
+    ],
+    "skills": [
+      
+      {
+        "name": "Adobe Photoshop",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Illustrator",
+        "level": "50%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AHAH Event Management",
+        "category": "Booklets",
+        "image": "event.jpg",
+      
+      },
+      {
+        "title": "Star Galleria Thetre",
+        "category": "Website Design",
+        "image": "website.jpg",
+        
+      },
+      {
+        "title": "Petta",
+        "category": "Rajinikanth",
+        "image": "petta.jpg",
+        
+      },
+      {
+        "title": "Beat The Heat Event",
+        "category": "Poster",
+        "image": "beat.jpg",
+       
+      },
+      {
+        "title": "Logo",
+        "category": "China Table Restuarant",
+        "image": "china_2.jpg",
+        
+      },
+		{
+        "title": "Logo",
+        "category": "Cheddar Pizza",
+        "image": "cheddar.jpg",
+        
+      },
+		{
+        "title": "Logo",
+        "category": "Masala Box Restuarant",
+        "image": "masala-box1.jpg",
+        
+      }
+		
+		
+		
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Shenbagaraj must be one of the most brilliant Designer I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
